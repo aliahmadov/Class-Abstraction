@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Entities.h(179,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Entities.h(202,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Entities.h(216,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Entities.h(221,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Entities.h(277,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(12,50): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(120,53): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(145,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(167,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Functions.h(186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Start.h(77,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Start.h(112,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Start.h(171,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\ABSTRACTION-CLASS_C++\Source.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ABSTRACTION-CLASS_C++.vcxproj -> C:\Users\eliah\source\repos\ABSTRACTION-CLASS_C++\Debug\ABSTRACTION-CLASS_C++.exe
